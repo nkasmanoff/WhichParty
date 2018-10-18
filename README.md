@@ -37,4 +37,4 @@ MODEL
 
 As previously mentioned, this will be an RNN. 
 
-I'll be roughly basing this model on the IMDB 
+I'll be roughly basing this model on the IMDB review dataset, which attempts to classify reviews on the imdb website as positive or negative. 
