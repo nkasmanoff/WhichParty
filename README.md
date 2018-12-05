@@ -105,10 +105,8 @@ MODEL USED
 
 As previously mentioned, this will be an RNN. 
 
-<<<<<<< HEAD
 I'll be roughly basing this model on the IMDB 
 
 
 =======
 I'll be roughly basing this model on the IMDB review dataset, which attempts to classify reviews on the imdb website as positive or negative. 
->>>>>>> 065aed0a7d3724020cc437d06044f5baa1cfb61a
